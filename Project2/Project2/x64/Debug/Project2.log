@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\tonyd\source\repos\Project2\Project2\main.c(28,8): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project2.vcxproj -> C:\Users\tonyd\source\repos\Project2\x64\Debug\Project2.exe
